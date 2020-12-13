@@ -1,0 +1,4 @@
+﻿  UnitTest10.1.cpp
+D:\Student\lab10.1.1\lab10.1.1\lab10_1_1.cpp(21): warning C4715: search_dot: значение возвращается не при всех путях выполнения
+D:\Student\lab10.1.1\lab10.1.1\lab10_1_1.cpp(37): warning C4715: search_string: значение возвращается не при всех путях выполнения
+  UnitTest10.1.vcxproj -> D:\Student\lab10.1.1\Debug\UnitTest10.1.dll
